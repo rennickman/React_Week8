@@ -1,0 +1,24 @@
+.bookListWrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.addBook {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.addBook > input {
+    margin-right: 10px;
+}
+
+.bookList {
+    display: flex;
+    flex-direction: column;
+}
+
+.bookButton {
+    margin-right: 5px;
+}
